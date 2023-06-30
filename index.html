@@ -1,0 +1,207 @@
+
+<html>  
+<head>  
+<script type="text/javascript" src="script.js"></script>  
+<link rel="stylesheet" href="styles.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<title>Where Health Meets Wealth</title>
+
+</head>
+<body onload=project()> 
+
+    <section>
+        <h2 class="title" id="title1">Where Health Meets Wealth</h2>
+        <h3 class="title" id="subtitle">An Exploration of the Interplay between Health Outcomes and SDoHs<br/>By Xiaoyu Gui</h3>
+        <p class="intro-text">
+            <br>
+            <h1 class="section-title">🩺 Introduction</h1>
+            &emsp;
+            &emsp;
+            The field of global health is multifaceted, influenced by a wide range of factors that extend 
+        beyond healthcare services. Socioeconomic determinants play a pivotal role in shaping health 
+        outcomes, and understanding these relationships is crucial for designing effective policies, 
+        implementing necessary interventions, and improving resource allocation strategies. 
+        <br><br>
+            &emsp;
+            &emsp;    
+            Throughout this project, you will be guided through a narrative journey that explore the 
+        impact of Social Determinants of Health (SDoH), identify regional disparities, and 
+        investigate the complex dynamics that influence health outcomes worldwide.
+            
+        </p>
+        <br>
+    </section>
+
+    <!-- chart 1 -->
+    <section>
+        <h1 class="section-title">👼 The More Education, the Fewer Angel Babies</h1>
+        <p class="section-text">
+            &emsp;
+            &emsp;
+            Figure 1 depicts the relationship between average years that people aged 25+ spend in 
+            formal education and average infant mortality rates for over 180 countries, and it 
+            reveals a negative correlation. Developed countries predominantly occupy the end with 
+            higher levels of average schooling and lower infant mortality rates, while developing 
+            countries are clustered at the other end. 
+            <br><br>
+            &emsp;
+            &emsp; 
+            This visualization emphasizes that developed countries tend to invest more in education 
+            systems and support more educational opportunities. It also underscores the significance 
+            of education as a Social Determinant of Health in improving health outcomes of infants 
+            and mitigating risks to newborns. This insight may help policy makers to prioritize 
+            educational investments and programs that may contribute to improved infant health 
+            and overall population well-being.
+        </p>
+        <p class="instruction">(Hover over the circles for more details!)</p>
+    </section>
+    <div class="chart-holder">
+        <div id="scatter-container"></div>
+    </div>
+    <section>
+        <p class="caption">Figure 1: Average years that people aged 25+ spend in formal education 
+            vs. Infant mortality rate per 1000 people</p>
+    </section>
+    <br>
+    
+
+    <!-- chart 2 -->
+    <section>
+        <h1 class="section-title">💉 Wealth's Protective Embrace of Infants</h1>
+        <p class="section-text">
+            &emsp;
+            &emsp;
+            The choropleth map (Figure 2) displays the average vaccination rates among 1-year-olds 
+            for several vaccines, including Hepatitis B (HepB3), Measles (MCV1), Polio (Pol3), and 
+            Diphtheria tetanus toxoid and pertussis (DTP3). The lighter coloration observed in 
+            African countries indicates lower vaccine coverage, which may reflect weaker healthcare 
+            systems and insufficient health funding. 
+            <br><br>
+            &emsp;
+            &emsp; 
+            This visualization draws attention to the disparities in access to vaccinations and 
+            more broadly to basic healthcare services. It highlights the urgent need for targeted 
+            interventions, improved healthcare infrastructure, and increased funding in regions 
+            with lower vaccination coverage. Addressing these gaps can lead to higher immunization 
+            rates, disease prevention, and enhanced overall health outcomes.
+        </p>
+        <p class="instruction">(Zoom in and hover over the areas for more information!)</p>
+    </section>
+    <div class="chart-holder">
+        <div id="map-container"></div>
+    </div>
+    <section>
+        <p class="caption">Figure 2: Choropleth of Average Infant Vaccination Rate</p>
+    </section>
+    <br>
+
+    <!-- chart 3 -->
+    <section>
+        <h1 class="section-title">💸 Pathways of Health Funding</h1>
+        <p class="section-text">
+            &emsp;
+            &emsp;
+            Figure 3 illustrates the flow of Development Assistance for Health (DAH) funding between 
+            different regions from 1990 to 2021. The width of the links represents the amount of 
+            funding flow, while the size of the nodes corresponds to the average GDP per capita of 
+            the region. Major donors, such as North America and the EU, are characterized by higher 
+            GDP per capita and exhibit significant contributions to DAH funding, while major recipients 
+            like Asia and Africa tend to have lower GDP per capita and received much more DAH 
+            fundings than donated. 
+            <br><br>
+            &emsp;
+            &emsp;
+            This visualization highlights the economic disparities and regional imbalances in 
+            healthcare financing. Policymakers can leverage this information to promote equitable 
+            distribution of DAH funding, encourage collaboration among regions, and foster 
+            sustainable investments in healthcare infrastructure. By addressing funding gaps and 
+            promoting fair resource allocation, global health inequities can be addressed 
+            more effectively.
+        </p>
+        <p class="instruction">(Try dragging the nodes to get a better view of the links, and hover over the links for more details!)</p>
+    </section>
+    <div class="chart-holder">
+        <div id="network-container"></div>
+    </div>
+    <section>
+        <p class="caption">Figure 3: Node-Link Network of DAH Funding Flow Between Regions</p>
+        <br>
+    </section>
+
+    <section>
+        <p class="conclusion-text">
+            <h1 class="section-title">🏥 Conclusion</h1>
+            Dear audience,
+            <br><br>
+            &emsp;
+            &emsp;
+            Global health inequity has persistently remained a critical global challenge, primarily 
+            due to deep-rooted structural disparities. By engaging with these visualizations and 
+            analyzing the impacts of multiple Social Determinants of Health (SDoH) on health 
+            outcomes, we hope to foster your recognition of the dire need to find solutions and 
+            drive positive changes to improve the current status quo.
+            <br><br>
+            &emsp;
+            &emsp;
+            It is within our collective power to ignite changes and strive for a future in which 
+            everyone has an equal opportunity to lead a healthy life. Take action, raise your voice, 
+            and do your best to help improve the lives of those affected by health disparities.
+            <br><br>
+            &emsp;
+            &emsp;
+            Thank you for joining me on this journey and let us inspire one another to make a 
+            meaningful impact on the path toward global health equity.
+
+        </p>
+        <br>
+    </section>
+
+    <!-- Appendix -->
+    <section>
+        <h2 class="section-title">📝 Appendix</h2>
+        <h4>Data Preprocessing</h4>
+        <p class="section-text">
+            &emsp;
+            &emsp;
+            The data sources this project include <a href="https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated">Kaggle</a>, 
+            <a href="https://ghdx.healthdata.org/record/ihme-data/development-assistance-health-database-1990-2021">IHME</a>
+            (Institution for Health Metrics and Evaluation), and 
+            <a href="https://geojson-maps.ash.ms/">geojson-maps</a>. 
+            <br><br>
+            &emsp;
+            &emsp;
+            The first dataset contains relevant health, economic and demographic information. There 
+            are multiple rows for each country, which are data collected in different years. Only 
+            the most recent data are kept. An average infant vaccination rate is obatined by 
+            calculating the mean of four attributes which are the average infant vaccine coverage 
+            rates of Hepatitis B (HepB3), Measles (MCV1), Polio (Pol3), and Diphtheria tetanus 
+            toxoid and pertussis (DTP3) respectively. 3-digit ISO code are merged to the dataset 
+            for mapping convenience, and necessary string replacements are made to clean up typos 
+            and unify country or dependency name. Attributes that are not needed in this project 
+            are dropped. Figure 1 and 2 utilized information from this dataset. The regional average 
+            GDP in figure 3 is also obtained from this dataset.
+            <br><br>
+            &emsp;
+            &emsp;
+            The second dataset contains information on Development Assistance for Health (DAH) 
+            fundings from 1990 to 2021. Fundings with unknown donor or recipient country, which is 
+            denoted by “Unallocated/Unspecified”, are dropped. Fundings used for administration purposes or 
+            meant for global use are also dropped. Necessary string replacements are made to clean 
+            up typos and unify country or dependency name. Regional information are added to the 
+            dataset in alignment to the previous dataset. The remaining fundings are then aggregated 
+            by region to calculate total donated and received fundings. Figure 3 utilized this dataset. 
+            <br><br>
+            &emsp;
+            &emsp;
+            The third dataset is a json file containing demographical information of the globe. It 
+            is used in figure 2 together with the first dataset with correspondence on the ISO code. 
+            <br><br>
+        </p>
+    </section>
+    
+ 
+</body>  
+</html>  

@@ -1,0 +1,185 @@
+,Country (or dependency),Region,Year,Infant_deaths,Incidents_HIV,GDP_per_capita,Population_mln,Schooling,Economy_status_Developed,Life_expectancy,avg_vax_rate,ISO
+0,Turkey,Middle East,2015,11.1,0.08,11006.0,78.53,7.8,0,76.5,89.0,TUR
+1,Greece,European Union,2015,3.8,0.06,18084.0,10.82,10.6,1,81.0,94.25,GRC
+2,Botswana,Africa,2015,39.6,5.81,6403.0,2.12,9.2,0,67.3,91.5,BWA
+3,Guyana,South America,2015,27.4,0.59,5577.0,0.77,8.4,0,69.3,94.25,GUY
+4,Brazil,South America,2015,14.2,0.24,8814.0,204.47,7.6,0,75.0,92.5,BRA
+5,Malta,European Union,2015,5.7,0.08,24922.0,0.45,11.2,1,81.9,95.0,MLT
+6,Kiribati,Oceania,2015,44.7,0.17,1535.0,0.11,7.9,0,67.3,79.0,KIR
+7,Latvia,European Union,2015,4.3,0.29,13786.0,1.98,12.8,1,74.5,93.75,LVA
+8,Kenya,Africa,2015,35.2,1.15,1465.0,47.88,6.3,0,64.8,72.25,KEN
+9,Bhutan,Asia,2015,27.4,0.13,2753.0,0.73,3.1,0,70.4,97.5,BTN
+10,Argentina,South America,2015,10.2,0.13,13789.0,43.13,9.8,0,76.1,92.0,ARG
+11,Nepal,Asia,2015,29.2,0.17,902.0,27.02,4.7,0,69.5,84.25,NPL
+12,Montenegro,Rest of Europe,2015,3.3,0.03,6517.0,0.62,11.3,0,76.4,88.5,MNE
+13,United States,North America,2015,5.8,0.12,56763.0,320.74,13.3,1,78.7,91.5,USA
+14,Kyrgyzstan,Asia,2015,19.9,0.12,1121.0,5.96,10.8,0,70.7,89.0,KGZ
+15,DR Congo,Africa,2015,73.0,0.35,497.0,76.24,6.4,0,59.3,76.0,COD
+16,Libya,Africa,2015,11.4,0.08,7590.0,6.42,7.3,0,72.1,97.0,LBY
+17,Bolivia,South America,2015,25.4,0.15,3036.0,10.87,8.7,0,70.3,95.0,BOL
+18,Saint Vincent and the Grenadines,Central America and Caribbean,2015,15.2,0.4,7207.0,0.11,8.6,0,72.1,94.0,VCT
+19,Ireland,European Union,2015,3.2,0.07,62012.0,4.7,12.3,1,81.5,92.75,IRL
+20,Luxembourg,European Union,2015,2.3,0.1,105462.0,0.57,12.0,1,82.3,94.5,LUX
+21,Suriname,South America,2015,18.2,0.47,9168.0,0.56,8.4,0,71.2,69.25,SUR
+22,Bahamas,Central America and Caribbean,2015,12.0,0.34,31699.0,0.37,11.1,0,73.1,92.0,BHS
+23,Croatia,European Union,2015,4.2,0.02,11933.0,4.2,11.2,1,77.3,94.5,HRV
+24,Benin,Africa,2015,63.2,0.33,1077.0,10.58,3.5,0,60.6,79.75,BEN
+25,Czech Republic,European Union,2015,2.5,0.08,17830.0,10.55,12.7,1,78.6,97.5,CZE
+26,Cyprus,European Union,2015,2.4,0.06,23408.0,1.16,11.9,1,80.4,94.75,CYP
+27,Zimbabwe,Africa,2015,42.1,3.86,1445.0,13.81,8.2,0,59.5,81.5,ZWE
+28,Cape Verde,Africa,2015,16.7,0.26,3043.0,0.52,5.9,0,72.1,94.25,CPV
+29,Laos,Asia,2015,42.1,0.15,2140.0,6.74,5.1,0,66.5,83.0,LAO
+30,Vietnam,Asia,2015,17.4,0.12,2582.0,92.68,8.0,0,75.1,89.0,VNM
+31,India,Asia,2015,34.9,0.06,1606.0,1310.15,6.3,0,68.6,82.25,IND
+32,Saudi Arabia,Middle East,2015,7.8,0.13,20628.0,31.72,9.5,0,74.7,97.25,SAU
+33,Haiti,Central America and Caribbean,2015,52.8,0.67,1387.0,10.7,5.2,0,62.5,67.75,HTI
+34,Romania,European Union,2015,7.7,0.04,8969.0,19.82,10.9,1,74.9,87.0,ROU
+35,Lesotho,Africa,2015,72.6,10.0,1146.0,2.06,6.1,0,51.0,88.25,LSO
+36,Eswatini,Africa,2015,45.2,14.3,3680.0,1.1,6.5,0,55.4,86.75,SWZ
+37,Albania,Rest of Europe,2015,8.5,0.03,3953.0,2.88,9.7,0,78.0,98.75,ALB
+38,Austria,European Union,2015,3.0,0.08,44196.0,8.64,12.1,1,81.2,91.75,AUT
+39,Philippines,Asia,2015,23.4,0.1,3001.0,102.11,9.3,0,70.6,67.75,PHL
+40,Moldova,Rest of Europe,2015,13.6,0.36,2732.0,2.83,11.6,0,71.5,88.75,MDA
+41,Republic of the Congo,Africa,2015,37.6,2.04,2449.0,4.86,6.3,0,63.1,76.0,COG
+42,Grenada,Central America and Caribbean,2015,14.3,0.4,9097.0,0.11,8.7,0,72.4,93.0,GRD
+43,Namibia,Africa,2015,33.3,4.58,4897.0,2.31,6.7,0,62.1,85.0,NAM
+44,Estonia,European Union,2015,2.4,0.08,17402.0,1.32,12.7,1,77.6,92.25,EST
+45,Canada,North America,2015,4.7,0.1,43596.0,35.7,13.1,1,81.9,80.75,CAN
+46,Togo,Africa,2015,50.8,0.72,571.0,7.32,4.7,0,59.9,80.5,TGO
+47,Kuwait,Middle East,2015,7.5,0.13,29870.0,3.84,7.1,0,75.1,98.25,KWT
+48,Eritrea,Africa,2015,34.0,0.1,9011.0,0.35,3.9,0,64.7,93.25,ERI
+49,Iceland,Rest of Europe,2015,1.8,0.05,52952.0,0.33,12.2,1,82.5,91.5,ISL
+50,Papua New Guinea,Oceania,2015,40.2,0.41,2679.0,8.11,4.3,0,63.5,64.0,PNG
+51,Spain,European Union,2015,2.7,0.09,25742.0,46.44,9.7,1,82.8,96.25,ESP
+52,China,Asia,2015,8.3,0.1,8016.0,1379.86,7.7,0,75.9,99.0,CHN
+53,Belarus,Rest of Europe,2015,3.1,0.22,5967.0,9.46,12.2,0,73.6,99.0,BLR
+54,Georgia,Rest of Europe,2015,9.4,0.14,4014.0,3.73,12.7,0,73.0,92.5,GEO
+55,Tajikistan,Asia,2015,32.6,0.11,978.0,8.45,10.5,0,70.1,95.5,TJK
+56,New Zealand,Oceania,2015,4.6,0.03,38631.0,4.61,12.4,1,81.5,90.75,NZL
+57,Bangladesh,Asia,2015,31.0,0.01,1248.0,156.26,5.2,0,71.5,95.5,BGD
+58,Hungary,European Union,2015,4.2,0.08,12721.0,9.84,11.8,1,75.6,96.25,HUN
+59,Cambodia,Asia,2015,27.3,0.1,1163.0,15.52,4.7,0,68.6,82.75,KHM
+60,Somalia,Africa,2015,83.6,0.13,386.0,13.8,2.1,0,55.9,48.75,SOM
+61,Uzbekistan,Asia,2015,17.3,0.14,2754.0,31.3,11.4,0,70.9,99.0,UZB
+62,Vanuatu,Oceania,2015,23.6,0.17,2696.0,0.27,6.8,0,69.9,68.25,VUT
+63,Uruguay,South America,2015,7.6,0.24,15614.0,3.41,8.7,0,77.4,94.5,URY
+64,Peru,South America,2015,12.2,0.13,6229.0,30.47,9.1,0,75.8,82.75,PER
+65,Chile,South America,2015,6.7,0.19,13495.0,17.97,10.3,0,79.6,94.5,CHL
+66,Germany,European Union,2015,3.3,0.03,41103.0,81.69,14.1,1,80.6,92.0,DEU
+67,Israel,Middle East,2015,3.2,0.08,35808.0,8.38,13.0,1,82.1,95.75,ISR
+68,Cuba,Central America and Caribbean,2015,4.5,0.16,7694.0,11.32,11.4,0,78.6,99.0,CUB
+69,Switzerland,Rest of Europe,2015,3.7,0.05,84776.0,8.28,13.4,1,82.9,92.0,CHE
+70,Liberia,Africa,2015,64.4,3.5,722.0,4.47,4.4,0,62.3,58.25,LBR
+71,Italy,European Union,2015,3.0,0.06,30242.0,60.73,10.2,1,82.5,90.5,ITA
+72,Guinea-Bissau,Africa,2015,60.0,1.58,603.0,1.74,2.9,0,57.0,80.25,GNB
+73,Iraq,Middle East,2015,24.8,0.13,4688.0,35.57,6.6,0,69.9,65.5,IRQ
+74,Denmark,European Union,2015,3.5,0.03,53255.0,5.68,12.5,1,80.7,88.5,DNK
+75,Rwanda,Africa,2015,34.6,0.59,751.0,11.37,4.0,0,67.5,95.5,RWA
+76,Poland,European Union,2015,4.2,0.08,12578.0,37.99,12.1,1,77.5,95.0,POL
+77,Iran,Middle East,2015,13.3,0.04,5201.0,78.49,9.8,0,75.8,89.75,IRN
+78,Mauritius,Africa,2015,12.8,0.7,9260.0,1.26,9.1,0,74.4,97.0,MUS
+79,Solomon Islands,Oceania,2015,19.3,0.17,2167.0,0.6,5.4,0,72.2,86.5,SLB
+80,Chad,Africa,2015,75.7,0.42,776.0,14.11,2.3,0,53.1,52.0,TCD
+81,Armenia,Rest of Europe,2015,12.6,0.09,3607.0,2.93,11.6,0,74.5,95.25,ARM
+82,Niger,Africa,2015,51.8,0.06,484.0,20.0,1.8,0,60.6,69.25,NER
+83,United Kingdom,Rest of Europe,2015,3.8,0.08,45405.0,65.12,12.8,1,81.0,91.5,GBR
+84,Honduras,Central America and Caribbean,2015,16.5,0.07,2302.0,9.11,6.3,0,74.5,93.75,HND
+85,Egypt,Africa,2015,19.8,0.13,3563.0,92.44,7.1,0,71.3,85.75,EGY
+86,Australia,Oceania,2015,3.3,0.04,56707.0,23.82,12.8,1,82.4,93.0,AUS
+87,Mexico,North America,2015,13.9,0.16,9617.0,121.86,8.6,0,74.9,88.0,MEX
+88,Guatemala,Central America and Caribbean,2015,23.7,0.03,3995.0,15.57,6.3,0,73.3,75.0,GTM
+89,Qatar,Middle East,2015,6.7,0.06,63039.0,2.57,9.8,0,79.8,97.0,QAT
+90,Mauritania,Africa,2015,55.0,0.15,1524.0,4.05,4.3,0,63.9,69.25,MRT
+91,Angola,Africa,2015,57.7,0.89,3128.0,27.88,5.0,0,59.4,63.5,AGO
+92,Dominican Republic,Central America and Caribbean,2015,28.8,0.38,6922.0,10.28,7.8,0,73.2,84.0,DOM
+93,Ukraine,Rest of Europe,2015,8.1,0.23,2125.0,45.15,11.3,0,71.2,38.25,UKR
+94,Yemen,Middle East,2015,46.1,0.03,1602.0,26.5,3.0,0,66.1,74.0,YEM
+95,Zambia,Africa,2015,46.9,4.48,1338.0,15.88,6.9,0,61.7,79.25,ZMB
+96,Kazakhstan,Asia,2015,10.6,0.14,10511.0,17.54,11.7,0,72.0,98.0,KAZ
+97,Serbia,Rest of Europe,2015,5.4,0.02,5589.0,7.1,11.0,0,75.3,92.5,SRB
+98,Indonesia,Asia,2015,23.2,0.15,3332.0,258.38,7.9,0,70.8,68.0,IDN
+99,Paraguay,South America,2015,19.0,0.14,5414.0,6.69,8.5,0,73.7,87.75,PRY
+100,Micronesia,Oceania,2015,24.2,0.17,2907.0,0.11,8.0,0,67.3,71.5,FSM
+101,Central African Republic,Africa,2015,87.9,1.12,377.0,4.49,4.2,0,50.9,52.25,CAF
+102,Sweden,European Union,2015,2.3,0.08,51545.0,9.8,12.4,1,82.2,89.5,SWE
+103,Guinea,Africa,2015,68.4,0.74,769.0,11.43,2.6,0,59.6,54.75,GIN
+104,Bosnia and Herzegovina,Rest of Europe,2015,5.4,0.08,4730.0,3.43,9.0,0,76.9,81.5,BIH
+105,Costa Rica,Central America and Caribbean,2015,7.7,0.19,11643.0,4.85,8.8,0,79.6,91.5,CRI
+106,Tanzania,Africa,2015,40.9,2.01,948.0,51.48,5.8,0,63.1,89.0,TZA
+107,Brunei,Asia,2015,8.8,0.1,31164.0,0.41,9.0,0,75.3,98.5,BRN
+108,Norway,Rest of Europe,2015,2.2,0.04,74356.0,5.19,12.5,1,82.3,92.25,NOR
+109,Singapore,Asia,2015,2.2,0.07,55647.0,5.54,11.5,0,82.7,94.5,SGP
+110,Oman,Middle East,2015,9.6,0.05,18445.0,4.27,9.5,0,76.9,98.75,OMN
+111,Samoa,Oceania,2015,15.9,0.17,4074.0,0.19,10.3,0,72.7,64.5,WSM
+112,Ghana,Africa,2015,38.8,0.84,1774.0,27.85,6.9,0,62.8,81.75,GHA
+113,Trinidad and Tobago,Central America and Caribbean,2015,17.3,0.4,18384.0,1.37,10.8,0,72.9,88.25,TTO
+114,Finland,European Union,2015,2.0,0.08,42802.0,5.48,12.4,1,81.5,93.5,FIN
+115,Comoros,Africa,2015,54.4,0.01,1243.0,0.78,4.8,0,63.5,84.5,COM
+116,Afghanistan,Asia,2015,53.2,0.03,556.0,34.41,3.6,0,63.4,59.75,AFG
+117,Mali,Africa,2015,66.8,0.39,751.0,17.44,2.3,0,57.5,64.75,MLI
+118,Maldives,Asia,2015,8.4,0.17,9033.0,0.45,6.3,0,77.7,99.0,MDV
+119,Myanmar,Asia,2015,41.0,0.28,1197.0,52.68,4.9,0,65.8,86.25,MMR
+120,Belize,Central America and Caribbean,2015,13.2,0.4,4805.0,0.36,10.5,0,74.0,94.25,BLZ
+121,Fiji,Oceania,2015,20.6,0.12,5391.0,0.87,10.8,0,67.1,97.75,FJI
+122,El Salvador,Central America and Caribbean,2015,13.3,0.18,3706.0,6.33,6.6,0,72.4,90.5,SLV
+123,Panama,Central America and Caribbean,2015,14.6,0.4,13630.0,3.97,9.9,0,77.8,77.5,PAN
+124,Timor-Leste,Oceania,2015,42.8,0.1,1333.0,1.2,4.5,0,68.5,72.75,TLS
+125,Malawi,Africa,2015,36.7,2.59,381.0,16.75,4.4,0,62.0,82.0,MWI
+126,Lebanon,Middle East,2015,7.1,0.04,7643.0,6.53,8.5,0,78.8,76.5,LBN
+127,Antigua and Barbuda,Central America and Caribbean,2015,6.5,0.2,14285.0,0.09,9.2,0,76.5,92.0,ATG
+128,Venezuela,South America,2015,16.4,0.4,17318.0,30.08,10.1,0,72.6,86.0,VEN
+129,Cameroon,Africa,2015,57.0,1.12,1383.0,23.3,6.1,0,57.6,77.25,CMR
+130,United Arab Emirates,Middle East,2015,6.5,0.13,38663.0,9.26,10.6,0,77.3,99.0,ARE
+131,Mongolia,Asia,2015,16.6,0.01,3875.0,3.0,10.1,0,69.1,98.75,MNG
+132,Syria,Middle East,2015,25.6,0.13,979.0,18.0,5.1,0,69.9,44.75,SYR
+133,Tunisia,Africa,2015,14.8,0.04,4095.0,11.18,7.0,0,75.9,98.0,TUN
+134,South Africa,Africa,2015,28.6,6.91,6260.0,55.39,10.1,0,62.6,73.5,ZAF
+135,Gambia,Africa,2015,39.7,0.96,661.0,2.09,3.4,0,60.9,88.5,GMB
+136,Sao Tome and Principe,Central America and Caribbean,2015,18.5,0.15,1585.0,0.2,5.6,0,69.4,91.0,STP
+137,Bulgaria,European Union,2015,6.9,0.03,7075.0,7.18,11.8,1,74.6,90.25,BGR
+138,Sierra Leone,Africa,2015,95.1,0.85,588.0,7.17,3.4,0,52.9,79.5,SLE
+139,Pakistan,Asia,2015,62.1,0.13,1357.0,199.43,5.1,0,66.6,67.5,PAK
+140,Burundi,Africa,2015,46.2,0.27,306.0,10.16,2.9,0,60.1,86.75,BDI
+141,Tonga,Oceania,2015,10.7,0.17,4336.0,0.1,11.2,0,70.5,87.75,TON
+142,Malaysia,Asia,2015,6.9,0.14,9955.0,30.27,10.2,0,75.5,99.0,MYS
+143,France,European Union,2015,3.2,0.09,36653.0,66.55,11.5,1,82.3,90.0,FRA
+144,Ethiopia,Africa,2015,43.2,0.19,641.0,100.84,2.6,0,65.0,73.25,ETH
+145,Algeria,Africa,2015,21.6,0.05,4178.0,39.73,7.9,0,76.1,96.0,DZA
+146,Uganda,Africa,2015,38.9,2.08,847.0,38.23,5.7,0,61.4,76.25,UGA
+147,Sri Lanka,Asia,2015,7.5,0.01,3844.0,20.97,10.9,0,76.3,99.0,LKA
+148,Netherlands,European Union,2015,3.4,0.04,45193.0,16.94,12.1,1,81.5,94.0,NLD
+149,Seychelles,Africa,2015,12.7,3.5,15158.0,0.09,9.5,0,74.3,97.5,SYC
+150,Portugal,European Union,2015,3.0,0.12,19250.0,10.36,9.1,1,81.1,97.25,PRT
+151,Mozambique,Africa,2015,61.3,3.5,590.0,27.04,3.5,0,57.2,80.0,MOZ
+152,Morocco,Africa,2015,20.2,0.03,2875.0,34.66,5.0,0,75.7,98.0,MAR
+153,Gabon,Africa,2015,36.1,1.09,7385.0,1.95,8.1,0,64.9,75.75,GAB
+154,Azerbaijan,Asia,2015,23.3,0.05,5500.0,9.65,10.7,0,72.3,97.0,AZE
+155,Japan,Asia,2015,2.0,0.17,34961.0,127.14,12.5,1,83.8,92.75,JPN
+156,North Macedonia,Rest of Europe,2015,10.0,0.08,4862.0,2.07,9.6,0,75.4,93.0,MKD
+157,Nigeria,Africa,2015,79.3,0.58,2687.0,181.14,6.0,0,53.1,51.0,NGA
+158,Russia,Rest of Europe,2015,6.6,0.08,9313.0,144.1,12.0,0,71.2,97.0,RUS
+159,Bahrain,Middle East,2015,6.5,0.05,22634.0,1.37,9.3,0,76.8,98.25,BHR
+160,Barbados,Central America and Caribbean,2015,13.0,0.28,16559.0,0.29,10.5,0,78.8,95.0,BRB
+161,Equatorial Guinea,Africa,2015,67.6,4.2,11283.0,1.17,5.5,0,57.4,39.25,GNQ
+162,Nicaragua,Central America and Caribbean,2015,16.6,0.11,2050.0,6.22,6.5,0,73.6,94.5,NIC
+163,Thailand,Asia,2015,9.3,0.16,5840.0,68.71,7.6,0,76.1,98.0,THA
+164,Madagascar,Africa,2015,41.3,0.24,467.0,24.23,6.1,0,65.5,67.5,MDG
+165,Belgium,European Union,2015,3.3,0.08,41008.0,11.27,11.7,1,81.0,95.25,BEL
+166,Ivory Coast,Africa,2015,65.7,0.63,1973.0,23.23,5.0,0,56.1,77.75,CIV
+167,Saint Lucia,Central America and Caribbean,2015,19.5,0.4,10094.0,0.18,8.9,0,75.6,95.0,LCA
+168,Turkmenistan,Asia,2015,36.4,0.08,6433.0,5.57,9.8,0,67.7,99.0,TKM
+169,Lithuania,European Union,2015,4.0,0.09,14264.0,2.9,13.0,1,74.3,93.0,LTU
+170,Senegal,Africa,2015,34.7,0.1,1219.0,14.58,2.9,0,66.7,79.25,SEN
+171,Slovakia,European Union,2015,5.1,0.02,16342.0,5.42,12.5,1,76.6,96.25,SVK
+172,Burkina Faso,Africa,2015,59.6,0.16,653.0,18.11,1.4,0,59.9,80.75,BFA
+173,Jamaica,Central America and Caribbean,2015,13.4,0.47,4908.0,2.89,9.6,0,74.1,89.0,JAM
+174,Jordan,Middle East,2015,15.0,0.13,4164.0,9.27,10.3,0,74.1,98.25,JOR
+175,Ecuador,South America,2015,13.2,0.16,6124.0,16.21,8.4,0,76.1,79.0,ECU
+176,Slovenia,European Union,2015,2.1,0.01,20890.0,2.06,12.0,1,80.8,93.5,SVN
+177,Djibouti,Africa,2015,54.6,0.22,2653.0,0.91,4.1,0,64.1,83.5,DJI
+178,Colombia,South America,2015,13.4,0.19,6176.0,47.52,8.1,0,76.5,89.75,COL
+179,Greenland,North America,2015,8.4,,54571.0,0.05,10.88,1,71.4,85.4,GRL
+180,France,European Union,2015,2.68,3.0,43659.0,67.75,13.8,1,82.18,98.9,FRA
+181,Sudan,Africa,2015,38.04,2.0,752.0,44.44,4.7,0,65.61,80.0,SDN
+182,South Sudan,Africa,2015,58.58,27.0,1072.0,10.75,4.2,0,55.48,32.0,SSD
+183,Norway,Rest of Europe,2015,1.71,1.0,89154.28,5.41,13.7,1,83.21,96.3,NOR

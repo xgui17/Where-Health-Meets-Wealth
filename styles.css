@@ -1,0 +1,60 @@
+:root {
+    --text-width: 800px;
+    background-color: antiquewhite !important;
+}
+
+section{
+    font-family: 'Noto Serif', serif;
+    width: var(--text-width);
+    /* text-align: center; */
+    margin: auto;
+}
+
+.title{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+#title1{
+    font-size: 50px;
+}
+
+#subtitle{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.751);
+}
+
+.subsubtitle{
+    font-size: 18px;
+    text-align: center;
+}
+
+.plot-text{
+    font-family: 'Noto Serif', serif;
+}
+
+.section-title{
+    font-size: 25px;
+    text-align: center;
+}
+
+.appendix-title{
+    font-size: 20px;
+}
+
+.instruction{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+
+.caption{
+    font-size: 13px;
+    text-align: center;
+}
+
+.chart-holder {
+    margin: auto;
+    text-align: center;
+}
